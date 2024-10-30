@@ -2,7 +2,7 @@
 
 ## Description
 
-A Flutter-based mobile application designed to provide users with accurate weather forecasts for their current location. 
+A Flutter-based mobile application designed to provide users with accurate weather forecasts for any location. 
 
 
 ## Features
