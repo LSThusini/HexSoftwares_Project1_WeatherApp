@@ -12,7 +12,10 @@ A Flutter-based mobile application designed to provide users with accurate weath
 
 
 ## Screenshots
-<img src="https://github.com/LSThusini/weather_app/assets/112751372/26c492cb-955d-4e02-ae8b-9a793f2722fc" alt="Screenshot" width="200"/> <img src="https://github.com/LSThusini/weather_app/assets/112751372/9aac76bd-bc4b-416c-a08c-4e1d564d1b52" alt="Screenshot" width="200"/>
+<img src="https://github.com/user-attachments/assets/f923b876-7fd9-46c3-be3b-b84477ed4ca0" alt="Screenshot" width="200"/>
+<img src="https://github.com/user-attachments/assets/74aa09a5-dc3e-466e-a024-821662337648" alt="Screenshot" width="200"/>
+<img src="https://github.com/user-attachments/assets/91457126-184c-410b-8cfa-d38daebe36ff" alt="Screenshot" width="200"/>
+
 
 
 
